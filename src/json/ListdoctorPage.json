@@ -1,0 +1,39 @@
+{
+  "list":[
+    {
+      "imageUrl":"",
+      "name":"dr Bayu Andi",
+      "spesialis":"Umum",
+      "sarana":"Klinik Kita Sehat"
+
+    },
+    {
+      "imageUrl":"",
+      "name":"dr Eko Spkj",
+      "spesialis":"Kesehatan Jiwa",
+      "sarana":"RS Jiwa"
+
+    },
+    {
+      "imageUrl":"",
+      "name":"dr Indah Setia Spog., Mkes",
+      "spesialis":"Spesialis Kandungan",
+      "sarana":"Klinik Bersalin"
+
+    },
+    {
+      "imageUrl":"",
+      "name":"dr Boy Junior SpA",
+      "spesialis":"Spesialis",
+      "sarana":"RS Ibu dan Anak"
+
+    },
+    {
+      "imageUrl":"",
+      "name":"dr Fitri Mkes",
+      "spesialis":"Umum",
+      "sarana":"RS Umum Daerah"
+
+    }
+  ]
+}
